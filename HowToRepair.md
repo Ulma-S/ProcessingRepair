@@ -18,11 +18,13 @@
 
    <img src="./screenshot/cdDesktop.png">
    
+   
    ```sh
-/bin/bash ProcessingRepair.sh
+   /bin/bash ProcessingRepair.sh
    ```
 
    <img src="./screenshot/execute.png">
+   
    
    (それぞれのコマンドを実行すると写真のようになると思います)
    
